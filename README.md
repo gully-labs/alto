@@ -1,19 +1,26 @@
 <!-- gully-header:start -->
-<a href="https://gullychain.xyz"><img src="https://gullychain.xyz/brand/repos/alto.svg" alt="GullyChain · Bundler" width="100%"></a>
+<p align="center">
+  <a href="https://gullychain.xyz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/gullychain-wordmark-for-dark-bg.png">
+      <img alt="Gully Chain" src=".github/assets/gullychain-wordmark-for-light-bg.png" width="360">
+    </picture>
+  </a>
+</p>
+
+<p align="center"><b>The social chain where your profile is your wallet. Arbitrum Orbit L3, testnet chain 485590.</b></p>
+
+<p align="center">ERC-4337 bundler for Gully Chain profile wallets.</p>
 
 <p align="center">
   <a href="https://gullychain.xyz"><img src="https://img.shields.io/badge/gullychain.xyz-01D9FA?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=000000" alt="Website"></a>
-  <a href="https://app.gullychain.xyz"><img src="https://img.shields.io/badge/App-0A0F1A?style=for-the-badge&labelColor=000000&logo=googlechrome&logoColor=01D9FA" alt="App"></a>
   <a href="https://docs.gullychain.xyz"><img src="https://img.shields.io/badge/Docs-0A0F1A?style=for-the-badge&labelColor=000000&logo=readthedocs&logoColor=01D9FA" alt="Docs"></a>
-  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-0A0F1A?style=for-the-badge&labelColor=000000&logo=x&logoColor=white" alt="X"></a>
   <a href="https://t.me/GullyChain"><img src="https://img.shields.io/badge/Telegram-0A0F1A?style=for-the-badge&labelColor=000000&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
   <a href="https://discord.com/invite/tY2ErsNNBp"><img src="https://img.shields.io/badge/Discord-0A0F1A?style=for-the-badge&labelColor=000000&logo=discord&logoColor=5865F2" alt="Discord"></a>
-  <a href="https://github.com/gully-labs"><img src="https://img.shields.io/badge/GitHub-0A0F1A?style=for-the-badge&labelColor=000000&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-0A0F1A?style=for-the-badge&labelColor=000000&logo=x&logoColor=white" alt="X"></a>
 </p>
 
-<p align="center"><b>Bundler: ERC-4337 bundler for GullyChain profile wallets.</b></p>
-
-<p align="center"><sub>Maintained by <a href="https://gullylabs.xyz">Gully Labs</a> as part of <a href="https://gullychain.xyz">GullyChain</a>. Fork of <a href="https://github.com/pimlicolabs/alto">pimlicolabs/alto</a>, used under its GPL-3.0 licence. Not affiliated with or endorsed by Pimlico.</sub></p>
+<p align="center"><sub>A Gully Chain fork of <a href="https://github.com/pimlicolabs/alto">pimlicolabs/alto</a>, maintained by <a href="https://gullylabs.xyz">Gully Labs</a>. It is used under its GPL-3.0 licence; the upstream LICENSE, copyright and attribution notices are kept unchanged. The upstream README follows below as published. Not affiliated with or endorsed by pimlicolabs.</sub></p>
 
 ---
 <!-- gully-header:end -->
@@ -79,3 +86,17 @@ Feel free to ask any questions in our [Telegram group](https://t.me/pimlicoHQ)
 
 - [Eth-Infinitism bundler](https://github.com/eth-infinitism/bundler)
 - [Lodestar](https://github.com/ChainSafe/lodestar)
+
+
+<!-- gully-footer:start -->
+---
+
+<p align="center">
+  <a href="https://gullylabs.xyz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/assets/powered-by-gully-labs-dark-2x.png">
+      <img alt="Powered by Gully Labs" src=".github/assets/powered-by-gully-labs-light-2x.png" width="254" height="64">
+    </picture>
+  </a>
+</p>
+<!-- gully-footer:end -->
